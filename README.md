@@ -6,9 +6,9 @@
 &nbsp;
 &nbsp;
 
-### 💻 Languages and Tools:
+### 💻 Tech Stack:
 
-| **Category**             |                                                                                                                                                                    |
+| **Category**             |                                                                                                                                                                |
 |--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **💻 Languages**           | ![Java](https://img.shields.io/badge/java-007ACC.svg?style=for-the-badge&logo=OpenJDK&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-007ACC.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-007ACC?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-007ACC?style=for-the-badge&logo=CSS3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=PHP&logoColor=white)  |
 | **🛠️ Development Tools**   | ![Gradle](https://img.shields.io/badge/Gradle-007ACC.svg?style=for-the-badge&logo=gradle&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-007ACC?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Termius](https://img.shields.io/badge/Termius-007ACC.svg?style=for-the-badge&logo=termius&logoColor=white)  |
